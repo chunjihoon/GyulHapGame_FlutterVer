@@ -11,4 +11,4 @@
   - FlatButton에 이미지 추가
   - 랜덤문제&정답('합') 생성 로직 구현 (List, Map 사용)
 - 2021.01.19
-  - 버튼 클릭시 이미지 Opacity를 변경하는 Animation 적용
+  - StatefulWidget에서 버튼 클릭시 이미지 Opacity를 변경하는 Animation 적용
