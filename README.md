@@ -2,7 +2,7 @@
 - 결합게임을 Dart의 UI 프레임워크 Flutter를 이용해 하이브리드앱으로 구현하는 프로젝트
 
 # Skill
-- Dart, Flutter, Node.js, MariaDB
+- Dart, Flutter, Node.js, MariaDB, 배포-Heroku(예정)
 
 # 진척사항
 - 2021.01.17
